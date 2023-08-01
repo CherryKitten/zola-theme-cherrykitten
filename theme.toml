@@ -1,0 +1,12 @@
+name = "cherrykitten"
+description = "Personal website theme, based on terminimal theme"
+license = "MIT"
+homepage = "https://git.cherrykitten.dev/sammy/zola-theme-cherrykitten"
+
+[author]
+name = "CherryKitten"
+homepage = "https://cherrykitten.dev"
+
+[original]
+author = "Paweł Romanowski"
+homepage = "https://github.com/pawroman/zola-theme-terminimal"
